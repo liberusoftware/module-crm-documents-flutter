@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-documents-flutter",
+  "capabilityKey": "liberusoftware/module-crm-documents",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_documents_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/crm-documents.md",
+  "presentationPlan": "projects/crm/flutter/crm-documents.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
